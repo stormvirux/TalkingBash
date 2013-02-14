@@ -1,0 +1,17 @@
+-+-+-+-+<< lame decoration >>+-+-+-+-
+This is a bash config and a script that makes ur bash chat
+with u.
+
+Copy the file named 'say' to ur /usr/bin directory and give
+necessary permissions.
+
+Next copy the bash.bashrc to /etc. Or u can copy the contents
+to your .bashrc
+
+The config works fine with uxterm (unicode enabled xterm).
+It should work fine with other terminals if unicode is
+enabled.
+
+Love
+Saikat Basak
+saikatbsk@gmail.com
