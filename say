@@ -1,6 +1,6 @@
 #!/bin/bash
 declare -a arr_love=("❡ ❤ the way u type" "☎ me when ur free" "♫ u make my heart sing ♪" "u r my super man" "only u n ❡ tonight" "♥ me ßaby" "♬ sing with me" "u r so hot" "❤ hug me" "kiss me ❤")
-declare -a arr_fuck=("fuck u" "sudomize urself" "u asshole" "rape ur dinosaur" "kill urself" "eat my shit" "i shall anal fuck u" "u r still here" "fuck off bitch" "go away bitch")
+declare -a arr_fuck=("Are you serious" "u gotta be kidding" "stop it" "Do not piss me off" "aaahh" "Grrr" "Blah Blah" "muhahaha" "who are u man" "go away bitch")
 if [ $1 -eq 0 ]
 then
 i=$(expr $RANDOM % 10)
